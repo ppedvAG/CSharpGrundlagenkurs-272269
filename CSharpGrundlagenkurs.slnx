@@ -1,0 +1,65 @@
+<Solution>
+  <Folder Name="/Modul/" />
+  <Folder Name="/Modul001_Einstieg/">
+    <Project Path="HelloCSharp/HelloCSharp.csproj" />
+    <Project Path="HelloCSharp_TopLevelStatementFeature/HelloCSharp_TopLevelStatementFeature.csproj" />
+    <Project Path="Modul001LAB/Modul001LAB.csproj" />
+  </Folder>
+  <Folder Name="/Modul002_ArraysBedienungen/">
+    <Project Path="ArraysConditionsSample/ArraysConditionsSample.csproj" />
+  </Folder>
+  <Folder Name="/Modul003_SchleifeEnumsSwitch/">
+    <Project Path="SchleifeEnumSwitchSamples/SchleifeEnumSwitchSamples.csproj" />
+  </Folder>
+  <Folder Name="/Modul004_Methoden/">
+    <Project Path="FunctionsSamples/FunctionsSamples.csproj" />
+  </Folder>
+  <Folder Name="/Modul005_OOP_Class/">
+    <Project Path="BankkontoLAB/BankkontoLAB.csproj" Id="23dd33a7-f9d5-493e-a8ee-84c002816ade" />
+    <Project Path="IntroClassSamples/IntroClassSamples.csproj" Id="46c0ca29-0f78-44f8-86c6-22da55d513c1" />
+  </Folder>
+  <Folder Name="/Modul006_OOP_Static/">
+    <Project Path="StaticSample/StaticSample.csproj" Id="8c804386-2a0d-4241-b759-ae4e36cd946f" />
+  </Folder>
+  <Folder Name="/Modul007_OOP_Vererbung/">
+    <Project Path="OOP_Vererbung/OOP_Vererbung.csproj" Id="e7af341b-0aba-42b2-bbcb-d04d5be171d1" />
+  </Folder>
+  <Folder Name="/Modul008_OOP_Abstract/">
+    <Project Path="OOP_AbstractSamples/OOP_AbstractSamples.csproj" Id="d7fa22e2-9e75-4c64-b287-658a4749712b" />
+  </Folder>
+  <Folder Name="/Modul008_OOP_Wiederholung/">
+    <Project Path="DocumentSample/DocumentSample.csproj" Id="ec6be2b1-20e8-4751-8376-e4e637b67b85" />
+    <Project Path="OOP_Virtual_Abstract_Wiederholung/OOP_Virtual_Abstract_Wiederholung.csproj" Id="392426ac-9429-4995-8eef-e6173ada9f3a" />
+  </Folder>
+  <Folder Name="/Modul009_OOP_Typprüfung/">
+    <Project Path="TyppruefungSample/TyppruefungSample.csproj" Id="1998dbf4-4be9-4763-a1a1-b418e954efc4" />
+  </Folder>
+  <Folder Name="/Modul010_OOP_Interfaces/">
+    <Project Path="InterfacesSamples_Oktoberfest/InterfacesSamples_Oktoberfest.csproj" Id="1bf1304f-5e8a-46b6-9ed0-f46bc8670b21" />
+  </Folder>
+  <Folder Name="/Modul011_OOP_SOLID/">
+    <Project Path="DependencyInversion/DependencyInversion.csproj" Id="4af82d71-de9d-468e-b243-2d146cc3952e" />
+    <Project Path="InterfaceSegerationPrincipe/InterfaceSegerationPrincipe.csproj" Id="47ae4c5f-637e-4be9-a163-c3c7c6bf5c9e" />
+    <Project Path="LizkovischesSubstitationsPrincipe/LizkovischesSubstitationsPrincipe.csproj" Id="af9649ad-5a46-4601-993a-a9bcd7ba69f5" />
+    <Project Path="OpenClosePrincipe/OpenClosePrincipe.csproj" Id="582ae161-a6e6-4d17-a2a4-d8d9156d48dd" />
+    <Project Path="SingleResponsibilityPrincipe/SingleResponsibilityPrincipe.csproj" Id="fed4d11b-ecff-4a44-8b09-2619047c5c03" />
+  </Folder>
+  <Folder Name="/modul012_GenerischeListen/">
+    <Project Path="EmployeeProjectDictionarySample/EmployeeProjectDictionarySample.csproj" Id="02535913-8a3a-4875-bee9-372e4193d884" />
+    <Project Path="GenerischeSamples/GenerischeSamples.csproj" Id="63e4929d-c8bc-4b3c-8e40-009e8cef34bf" />
+  </Folder>
+  <Folder Name="/Modul013_Delegates/">
+    <Project Path="DelegateFuncActionSample/DelegateFuncActionSample.csproj" Id="4af454bc-4b8c-47bb-bcec-5d61cc0d457e" />
+    <Project Path="DelegateWithCallback/DelegateWithCallback.csproj" Id="06c43245-7799-4427-91c6-b518c151024d" />
+    <Project Path="EventAndEventHandler/EventAndEventHandler.csproj" Id="775f4329-aa4f-4010-bae6-ea2f7fa53d94" />
+    <Project Path="PrimzahlenGenerator/PrimzahlenGenerator.csproj" Id="076c0075-d652-4473-9518-4a0b09833c15" />
+    <Project Path="RestAPISample/RestAPISample.csproj" Id="1de5f876-b8db-4e6e-84b3-fb32cf451df9" />
+  </Folder>
+  <Folder Name="/Modul014_ExceptionHandling/">
+    <Project Path="ExceptionHandlingSample/ExceptionHandlingSample.csproj" />
+    <Project Path="PrimzahlenComponent/PrimzahlenComponent.csproj" Id="764b2cce-3f80-46f9-ba49-e75b8f169150" />
+  </Folder>
+  <Folder Name="/Modul015_Linq/">
+    <Project Path="LinqLambdaInroSamples/LinqLambdaInroSamples.csproj" Id="33bb9cf6-4984-4157-adf3-426aaf2f11d7" />
+  </Folder>
+</Solution>
